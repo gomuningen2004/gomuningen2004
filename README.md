@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm gomuningen2004</h1>
+<h1 align="center">Hi 👋, I'm Govardhan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
