@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomuningen2004&" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gomuningen2004&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
