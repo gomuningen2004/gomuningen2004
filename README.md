@@ -65,6 +65,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gomuningen2004&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gomuningen2004&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gomuningen2004&theme=dark&hide_border=true)](https://git.io/streak-stats)
